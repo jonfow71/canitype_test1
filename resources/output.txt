@@ -1,0 +1,14 @@
+Folder PATH listing for volume Windows
+Volume serial number is A8CD-0E9F
+C:.
++---css
++---js
++---sass
++---views
+    +---auth
+    ¦   +---passwords
+    +---components
+    +---layouts
+    +---profile
+    ¦   +---partials
+    +---typing
